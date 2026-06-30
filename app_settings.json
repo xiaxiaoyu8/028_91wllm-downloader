@@ -1,0 +1,16 @@
+{
+  "start_url": "https://kjxyjy.91wllm.cn/admin/tempdb/jinfo/list/universityid/1577/grade/2026/sinfo_verify055/4/formal/0?target=navTab",
+  "out": "C:/_zhangyidaFiles/C02_Study/207_Projects/Project250515_nodejs/001_kaoyan/PaChong/data",
+  "limit": 5,
+  "insecure": true,
+  "headful": false,
+  "grid_selector": "#jinfo-grid table tbody tr",
+  "next_selector": null,
+  "no_pagination": false,
+  "max_pages": "200",
+  "timeout_ms": "30000",
+  "class_col": null,
+  "student_id_col": null,
+  "name_col": null,
+  "attachment_col": null
+}

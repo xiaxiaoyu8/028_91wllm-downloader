@@ -1,0 +1,42 @@
+[
+    {
+        "name": "_abfpc",
+        "value": "3af7ecad55fb8fd766122f4093fcb5b40933ceb1_2.0",
+        "domain": ".kjxyjy.91wllm.cn",
+        "path": "/",
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "cna",
+        "value": "0f460ce68d7b1ae2c7581a11af54ac9a",
+        "domain": ".kjxyjy.91wllm.cn",
+        "path": "/",
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_pk_id.1577.b0bd",
+        "value": "887ecdcf13a4adf3.1782791600.",
+        "domain": ".kjxyjy.91wllm.cn",
+        "path": "/",
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "AdminTheme",
+        "value": "adminthemeBlue",
+        "domain": ".kjxyjy.91wllm.cn",
+        "path": "/",
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "PHPSESSID2",
+        "value": "1nsc464dkh9odh1skmt185utf4",
+        "domain": ".kjxyjy.91wllm.cn",
+        "path": "/",
+        "secure": true,
+        "sameSite": "Lax"
+    }
+]

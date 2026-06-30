@@ -1,0 +1,4 @@
+requests>=2.32
+beautifulsoup4>=4.13
+playwright>=1.57
+pyinstaller>=6.17
